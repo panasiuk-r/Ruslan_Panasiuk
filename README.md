@@ -13,7 +13,8 @@ Usage:
 
 Script was made for testing web scenario that include five steps:
 
-Logging in
+Logging in;
+
 Going to workshift adding form;
 
 Adding new workshift with specific content (Workshift`s name: RandomName(in this case 'Sun'), From: 06:00 AM, To: 06:00 PM, Assigned Employee: Odis Adalwin);
