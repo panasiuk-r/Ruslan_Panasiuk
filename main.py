@@ -1,7 +1,7 @@
 import dropbox
 
 class Cloud_Storage:
-    def init(self, access_token):
+    def __init__(self, access_token):
         self.tkn = access_token
     def uploadFile(self, file_from, file_to):
         f = open(file_from, 'rb')
