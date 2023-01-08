@@ -33,5 +33,5 @@ def main():
     user.getMetadata(ft)
     user.deleteFile(ft)
 
-if __name__ == 'main':
+if __name__ == '__main__':
     main()
